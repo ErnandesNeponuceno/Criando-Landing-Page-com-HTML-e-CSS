@@ -46,7 +46,7 @@ span {
 }
 
 .banner {
-  background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url("../trilha-css-desafio-01-main/assets/images/banner.png");
+  background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url("../assets/images/banner.png");
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
@@ -160,7 +160,7 @@ span {
 #transform-world {
   height: 23rem;
   background-size: cover;
-  background-image: url("../trilha-css-desafio-01-main/assets/images/woman-code.png");
+  background-image: url("..assets/images/woman-code.png");
   background-attachment: fixed;
   border-top: 1px solid #33A8DB80;
   border-bottom: 1px solid #33A8DB80;
