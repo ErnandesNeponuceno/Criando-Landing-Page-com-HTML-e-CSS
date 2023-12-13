@@ -19,7 +19,7 @@ Além de outros recursos.
 ## 💻 Preview:
 - Veja como ficou o projeto acessando: [nesse link do Github Pages](https://ernandesneponuceno.github.io/Criando-Landing-Page-com-HTML-e-CSS/)
   
-![Imagem do Projeto](assets/imagens/Trilha-de-CSS-DIO.png)
+![Imagem do Projeto](assets/Trilha-de-CSS-DIO.png)
 
 ## 🤔 O que aprendi com esse projeto:
 - Aprimorar minhas habilidades em HTML e CSS.
