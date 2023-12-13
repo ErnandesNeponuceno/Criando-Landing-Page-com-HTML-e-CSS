@@ -17,7 +17,7 @@ Além de outros recursos.
 </div>
 
 ## 💻 Preview:
-- Veja como ficou o projeto acessando: [nesse link do Github Pages](https://ernandesneponuceno.github.io/Criando-Landing-Page-com-HTML-e-CSS/)
+- Veja como ficou o projeto:
   
 ![Imagem do Projeto](assets/imagens/Trilha-de-CSS-DIO.png)
 
